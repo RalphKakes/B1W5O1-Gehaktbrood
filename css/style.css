@@ -1,0 +1,26 @@
+body{
+	font-family: 'Roboto', sans-serif;
+
+}
+
+main {
+	border-style: solid;
+	border-width: 1px;
+    width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding-top: 5px;
+    border-color: white;
+
+}
+
+ul{
+	list-style-type:disc
+}
+
+div{
+	background-color: #def6ed;
+	border: white;
+	border-radius: 4px;
+	text-align: center;
+}
